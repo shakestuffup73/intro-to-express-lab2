@@ -1,10 +1,10 @@
-const students = [
-  {name: 'Amanda', annoying: true, favFruit: 'mango'},
-  {name: 'Steph', annoying: false, favFruit: 'banana'},
-  {name: 'Nate', annoying: false, favFruit: 'apple'},
-  {name: 'Maddie', annoying: false, favFruit: 'grapes'},
+const estudiantes = [
+  { nombre: 'Amanda', annoying: true, frutaFavorita: 'la piña' },
+  { nombre: 'Steph', annoying: false, frutaFavorita: 'banana' },
+  { nombre: 'Nate', annoying: false, frutaFavorita: 'manzana' },
+  { nombre: 'Maddie', annoying: false, frutaFavorita: 'pollo' },
 ]
 
 export {
-  students
+  estudiantes
 }
